@@ -1,0 +1,35 @@
+1. What is custom operator overloading ?
+2. Why do we need Abstract class ?
+  Ans: 1. We can't create an instance of abstract class, complier will throw Error.
+       2. If there is abstract method in parent class, then in child class it should be defined. 
+       3. static and final keyword is used inside abstract class
+3. abstract class vs interface ?
+4. We can multiple inheritence with interface, and we can't do it with abstarct class.
+
+02:58 Question 01 :- Why do we need OOP?
+06:47 Question 02 :- What are the important pillars in OOP?
+09:55 Question 03 :- What is a Class and Object ?
+11:01 Question 04 :- Abstraction VS Encapsulation ?
+16:28 Question 05 :- Explain Inheritance ?
+18:15 Question 06 :- Explain Virtual Keyword ?
+18:15 Question 07 :- What is Overriding ?
+19:30 Question 08 :- Explain Overloading ?
+20:50 Question 09 :- Overloading VS Overriding ?
+23:04 Question 10 :- What is Polymorphism ?
+23:53 Question 11 :- Can Polymorphism work without Inheritance ?
+24:43 Question 12 :- Explain Static VS Dynamic Polymorphism ?
+26:32 Question 13 :- Explain Operator Overloading ?
+27:18 Question 14 :- How to do Custom Operator Overloading ?
+30:16 Question 15 :- Why do we need Abstract Classes ?
+34:10 Question 16 :- Are Abstract methods Virtual ?
+35:27 Question 17 :- Can we create an instance of Abstract Classes ?
+35:27 Question 18 :- Is it compulsory to implement Abstract Methods ?
+36:44 Question 19 :- Why simple base class cannot replace Abstract Classes?
+38:51 Question 20 :- Explain Interface and Why do we need it ?
+40:11 Question 21 :- Can we write logic in Interface ?
+40:11 Question 22 :- Can we define methods as private in Interface ?
+46:58 Question 23 :- To change Interface what's the best practice ?
+47:07 Question 24 :- Explain Multiple Inheritance in Interfaces ?
+51:08 Question 25 :- Explain Interface Segregation Principle ?
+53:09 Question 26 :- Can we create instance of Interface ?
+53:33 Question 27 :- Can we do multiple inheritance of Interface ?
